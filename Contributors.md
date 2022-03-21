@@ -1,4 +1,4 @@
-﻿- [Taha Jalili](https://github.com/tahajalili/first-contributions)
+- [Taha Jalili](https://github.com/tahajalili/first-contributions)
 - [Michael airola](https://github.com/michaelairola)
 - [Shanthanu Rai](https://github.com/shanthanu9)
 - [Akash Sharma](https://github.com/akashsharma99)
@@ -4085,3 +4085,4 @@
 - [Justin Gaskins](https://github.com/jgaskins331)
 - [Ramadan35](https://github.com/ramadan35)
 - [Eric Knight](https://github.com/HortusHonu)
+- [Ethan Calvin Kim] (https://github.com/ethanckim)
