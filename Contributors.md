@@ -4085,4 +4085,4 @@
 - [Justin Gaskins](https://github.com/jgaskins331)
 - [Ramadan35](https://github.com/ramadan35)
 - [Eric Knight](https://github.com/HortusHonu)
-- [Ethan Calvin Kim] (https://github.com/ethanckim)
+- [Ethan Calvin Kim](https://github.com/ethanckim)
